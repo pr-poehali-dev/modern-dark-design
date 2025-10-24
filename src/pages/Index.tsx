@@ -56,9 +56,7 @@ const Index = () => {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-black/90 backdrop-blur-md border-b border-white/10">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <div className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-blue-600 bg-clip-text text-transparent">
-              WEB DESIGN STUDIO
-            </div>
+            <div className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-blue-600 bg-clip-text text-transparent">DESIGN-DAO</div>
             <div className="hidden md:flex items-center gap-8">
               <button
                 onClick={() => scrollToSection('home')}
