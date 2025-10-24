@@ -14,7 +14,7 @@ const Index = () => {
 
   const projects = [
     {
-      title: 'Digital Marketing Platform',
+      title: 'Пример 1',
       description: 'Комплексная платформа для управления маркетинговыми кампаниями',
       image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80'
     },
