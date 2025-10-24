@@ -112,10 +112,7 @@ const Index = () => {
               onClick={() => scrollToSection('order')}
               size="lg"
               className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-6 text-lg rounded-full transition-all hover:scale-105"
-            >
-              Начать проект
-              <Icon name="ArrowRight" size={20} className="ml-2" />
-            </Button>
+            >Портфолио</Button>
           </div>
         </div>
 
