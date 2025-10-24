@@ -104,13 +104,7 @@ const Index = () => {
         
         <div className="container mx-auto px-6 relative z-10">
           <div className="max-w-4xl mx-auto text-center animate-fade-in">
-            <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight">
-              Creative Digital
-              <br />
-              <span className="bg-gradient-to-r from-blue-400 via-blue-500 to-blue-600 bg-clip-text text-transparent">
-                Solutions
-              </span>
-            </h1>
+            <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight">Веб дизайн</h1>
             <p className="text-xl md:text-2xl text-gray-400 mb-12 max-w-2xl mx-auto">
               Создаём современные веб-решения, которые выделяют ваш бизнес на фоне конкурентов
             </p>
