@@ -162,9 +162,7 @@ const Index = () => {
             <Button
               size="lg"
               className="bg-blue-600 hover:bg-blue-700 text-white px-12 py-6 text-lg rounded-full"
-            >
-              Заказать разработку
-            </Button>
+            >Заказать дизайн</Button>
           </div>
         </div>
       </section>
