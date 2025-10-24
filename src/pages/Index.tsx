@@ -255,7 +255,7 @@ const Index = () => {
           <div className="text-center">
             <div className="text-2xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-blue-600 bg-clip-text text-transparent">DESIGN-DAO</div>
             <p className="text-gray-400 mb-6">Создаём будущее вместе с вами</p>
-            <p className="text-gray-600 text-sm mt-8">© 2024 Web Design Studio. Все права защищены.</p>
+            <p className="text-gray-600 text-sm mt-8">© 2025 Design Dao Studio. Все права защищены.</p>
           </div>
         </div>
       </footer>
