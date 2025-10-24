@@ -24,7 +24,7 @@ const Index = () => {
       image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80'
     },
     {
-      title: 'Corporate Website',
+      title: 'Пример 3',
       description: 'Представительский сайт с уникальным дизайном',
       image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80'
     }
