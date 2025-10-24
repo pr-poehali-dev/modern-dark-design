@@ -253,9 +253,7 @@ const Index = () => {
       <footer className="bg-black border-t border-white/10 py-12">
         <div className="container mx-auto px-6">
           <div className="text-center">
-            <div className="text-2xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-blue-600 bg-clip-text text-transparent">
-              WEB DESIGN STUDIO
-            </div>
+            <div className="text-2xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-blue-600 bg-clip-text text-transparent">DESIGN-DAO</div>
             <p className="text-gray-400 mb-6">Создаём будущее вместе с вами</p>
             <div className="flex justify-center gap-6">
               <a href="#" className="text-gray-400 hover:text-blue-500 transition-colors">
