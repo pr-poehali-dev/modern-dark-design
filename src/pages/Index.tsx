@@ -19,7 +19,7 @@ const Index = () => {
       image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80'
     },
     {
-      title: 'E-commerce Solution',
+      title: 'Пример 2',
       description: 'Современный интернет-магазин с продвинутой аналитикой',
       image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80'
     },
