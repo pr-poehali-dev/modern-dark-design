@@ -162,6 +162,7 @@ const Index = () => {
             <Button
               size="lg"
               className="bg-blue-600 hover:bg-blue-700 text-white px-12 py-6 text-lg rounded-full"
+              onClick={() => window.open('https://vk.com/your_page', '_blank')}
             >Заказать дизайн</Button>
           </div>
         </div>
